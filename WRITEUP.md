@@ -114,4 +114,4 @@ UpdateFromGPS()
 
 References:
 1. Estimation for Quadrotors，https://www.overleaf.com/read/vymfngphcccj (really helpful to have a better understanding of the algorithms for EKF)
-2. https://github.com/mixmasteru/FCND-Estimation-CPP, https://github.com/eric-y-chen/fcnd-estimation-cpp
+2. mixmasteru/FCND-Estimation-CPP, eric-y-chen/fcnd-estimation-cpp
